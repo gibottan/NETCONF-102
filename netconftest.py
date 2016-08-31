@@ -12,7 +12,7 @@ import xml.dom.minidom
 # use the IP address or hostname of your Nexus device
 HOST = '10.10.10.54'
 # use the NETCONF port for your Nexus device
-PORT = 22
+PORT = 23
 # use the user credentials for your Nexus device
 USER = 'admin'
 PASS = 'cisco123'
