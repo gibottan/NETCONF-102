@@ -10,12 +10,12 @@ import xml.dom.minidom
 # access to a Nexus device running in VIRL in the
 # DevNet Always On SandBox
 # use the IP address or hostname of your Nexus device
-HOST = '172.16.1.82'
+HOST = '10.10.10.54'
 # use the NETCONF port for your Nexus device
 PORT = 22
 # use the user credentials for your Nexus device
-USER = 'cisco'
-PASS = 'cisco'
+USER = 'admin'
+PASS = 'cisco123'
 
 
 # create a main() method
